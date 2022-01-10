@@ -25,3 +25,6 @@ The model diagram below shows a graphical look on the object orientation taking 
 ![Model](Documentation/Diagrams/Model_Diagram.png)
 
 ## Test Plan
+The test plan is a table designed before testing the implemented application. The expected result is tested and if the expected result isnt recieved then the test is failed. The test plan should cover almost every aspect of the system, the test plans below cover the different function of the user and admin.
+![User Test Plan](Documentation/Diagrams/User_Test_Plan.png)
+![Admin Test Plan](Documentation/Diagrams/Admin_Test_Plan.png)
