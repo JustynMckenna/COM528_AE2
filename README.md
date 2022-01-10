@@ -13,9 +13,15 @@ Below is the use cases in a table format, the action being what the user does an
 ![Admin Use Case](Documentation/Diagrams/Admin_Use_Case.png)
 
 ## Robust Diagram
+A robustness diagram displays how the actors interact with differnet objects within the system, showing how the actors interact with the interface and controllers. Below is the robustness diagram for the User, Anonymous User and Admin.
+![Robustness Diagram](Documentation/Diagrams/Robustness_Diagram.png)
 
 ## Sequence Diagram
+A sequence diagram displays the interaction of the users with the system in a sequencial order, showing off the processes of the system in order and helping to better understand how the flow of information among the application works. The sequence below shows how the admin and the user interact with the shopping cart application.
+![Sequence Diagram](Documentation/Diagrams/Sequence_Diagram.png)
 
 ## Model
+The model diagram below shows a graphical look on the object orientation taking place within the shopping cart application, showing how the classes, attributes and methods work and how their relationships work within the system. This helps create a better understanding when implementing the application.
+![Model](Documentation/Diagrams/Model_Diagram.png)
 
 ## Test Plan
